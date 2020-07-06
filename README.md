@@ -1,4 +1,4 @@
 # Plater
 ### Integrantes
 Beatriz Auer Marinao
-Mateus Maioli Giacomin
+<br>Mateus Maioli Giacomin
